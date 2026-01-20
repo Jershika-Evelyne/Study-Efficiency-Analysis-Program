@@ -6,7 +6,10 @@ The goal of this project is to determine whether a student is using their study 
 This is an easy-to-use program that any user can navigate to improve their subject study efficiency. After registration/log in, the user enters data to be analyzed. The program uses a variety of calculations and methods to calculate efficiency, which is then revealed to the user. Additionally, it also provided unique recommendations to each user using the collected information. Finally, the user can choose to analyze another profile/subject or exit the program to view the leaderboard.
 
 # How to Run the Program
-(To update upon project completion)
+- Download or clone the project files.
+- Open the project in an IDE such as VS Code, IntelliJ, or Eclipse.
+- Run the Main class to start the program.
+- Log in or register to access the efficiency calculator.
 
 # Project Goals / Purpose
 The purpose of this game is to provide a useful and easy-to-use study efficiency calculation application for the user. The users can move at their own pace, use their data and then let the program do the work of calculating efficiency and providing unique study recommendations. As for my goals, I wanted to work on a project I found interesting while practicing Java GUI programming, math in Java, inheritance, and file handling.
@@ -15,7 +18,10 @@ The purpose of this game is to provide a useful and easy-to-use study efficiency
 This project will be completed individually by Jershika, a student in class ICS4UR (2526-Sem1). 
 
 # Installation / Setup
-(To update upon project completion)
+- Ensure all .java files are in the same project folder or correct packages.
+- Make sure all images (.png) are present in the same space as well.
 
 # Additional Notes
-(To update upon project completion)
+- Passwords are not encrypted.
+- Efficiency calculations are based on limited input data.
+- Future updates may include a leaderboard, improved efficiency calculations, and more detailed feedback explanations.
